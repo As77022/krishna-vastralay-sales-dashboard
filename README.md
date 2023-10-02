@@ -12,7 +12,9 @@ Illuminating Insights:
 4) Our ~30% sales happning in first quater, Need to moniter daily sales trends in this quater.
 4️) Our primary sales channels are Amazon, Flipkart, and Myntra, accounting for a whopping ~80% of our sales.
 
-**Crafting Success**:
+# Crafting Success  :
 In light of these compelling insights, our path forward is clear - we're gearing up to target the incredible women in the 21-49 age group residing in Maharashtra, Karnataka, and Uttar Pradesh. Brace yourselves for a wave of tailored ads, exclusive offers, and exciting coupons across Amazon, Flipkart, and Myntra! 
 
 Let's join forces and steer krishna vastralay toward greater heights together. If anyone have intrigued or have ideas to contribute, feel free to add your idea in this. Our journey to success is just beginning!
+# Dashboard 
+![dashboard-krishna](https://github.com/As77022/krishna-vastralay-sales-dashboard/assets/112013251/767aad16-524a-413d-bffd-4b3b5802fd7f)
