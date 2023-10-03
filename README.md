@@ -11,7 +11,7 @@ Krishna vastralay vision is clear - we're on a mission to create an Annual Sales
 
 3️) The 30-49 age group emerges as the powerhouse, making up an impressive ~50% of our customer base.
 
-4) Our ~30% sales happning in first quater, Need to moniter daily sales trends in this quater.
+4) Our ~30% sales happening in first quarter, Need to monitor daily sales trends in this quarter.
    
 5) Our primary sales channels are Amazon, Flipkart, and Myntra, accounting for a whopping ~80% of our sales.
 
